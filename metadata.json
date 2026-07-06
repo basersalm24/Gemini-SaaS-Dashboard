@@ -1,0 +1,6 @@
+{
+  "name": "Gemini SaaS Dashboard",
+  "description": "A modern, AI-powered SaaS dashboard to visualize key business metrics. Features an AI assistant to generate insightful summaries of your data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
